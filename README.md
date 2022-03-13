@@ -1,7 +1,7 @@
 # docker-opentracker
 
 Dockerfile for [opentracker](http://erdgeist.org/arts/software/opentracker/) by erdgeist.
-I added `DWANT_COMPRESSION_GZIP`, `DWANT_FULLLOG_NETWORKS` properties of opentracker you can it [here](http://erdgeist.org/arts/software/opentracker/)
+I added `DWANT_COMPRESSION_GZIP`, `DWANT_FULLLOG_NETWORKS` properties of opentracker you can it [here](http://erdgeist.org/arts/software/opentracker/#build-instructions)
 
 ## DOWNLOAD FILES
 
