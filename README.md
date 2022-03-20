@@ -23,7 +23,7 @@ sudo docker build -t docker-opentracker-image .
 ## RUN
 
 ```bash
-sudo docker run --restart unless-stopped --name docker-opentracker -d -p 8000:8000 docker-opentracker-image
+sudo docker run --restart unless-stopped --name docker-opentracker -d docker-opentracker-image
 ```
 
 ## LOGS
